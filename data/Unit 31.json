@@ -1,0 +1,218 @@
+[
+{
+"type": "vocabulary",
+"word": "buddy",
+"translation": "ami, pote",
+"example": "He's my buddy from work.",
+"variant": "friend",
+"trap": "Ne pas confondre avec "body".",
+"explain": "Mot informel utilisé surtout à l’oral pour parler d’un ami."
+},
+{
+"type": "vocabulary",
+"word": "partner",
+"translation": "partenaire",
+"example": "She is my business partner.",
+"variant": "colleague",
+"trap": null,
+"explain": "Peut désigner un partenaire professionnel ou personnel selon le contexte."
+},
+{
+"type": "vocabulary",
+"word": "nephew",
+"translation": "neveu",
+"example": "My nephew is ten years old.",
+"variant": null,
+"trap": "Ne pas confondre avec "niece".",
+"explain": "Fils de votre frère ou de votre sœur."
+},
+{
+"type": "vocabulary",
+"word": "loser",
+"translation": "perdant",
+"example": "He doesn't want to be a loser.",
+"variant": "the one who loses",
+"trap": "Peut être offensant.",
+"explain": "Personne qui perd une compétition ou échoue."
+},
+{
+"type": "vocabulary",
+"word": "winner",
+"translation": "gagnant",
+"example": "She is the winner of the game.",
+"variant": null,
+"trap": null,
+"explain": "Personne qui gagne."
+},
+{
+"type": "vocabulary",
+"word": "sharp",
+"translation": "tranchant",
+"example": "This knife is very sharp.",
+"variant": null,
+"trap": "Ne pas confondre avec "intelligent" sans contexte.",
+"explain": "Décrit quelque chose qui coupe facilement."
+},
+{
+"type": "vocabulary",
+"word": "home-cooked",
+"translation": "fait maison",
+"example": "We had a home-cooked dinner.",
+"variant": "homemade",
+"trap": "Toujours avec tiret avant un nom.",
+"explain": "Adjectif composé placé avant un nom."
+},
+{
+"type": "vocabulary",
+"word": "death",
+"translation": "mort",
+"example": "The death of the hero shocked everyone.",
+"variant": null,
+"trap": "Ne pas confondre avec "dead".",
+"explain": "Nom abstrait qui désigne la fin de la vie."
+},
+{
+"type": "vocabulary",
+"word": "routine",
+"translation": "routine",
+"example": "I follow the same routine every day.",
+"variant": null,
+"trap": null,
+"explain": "Habitude répétée régulièrement."
+},
+{
+"type": "vocabulary",
+"word": "recommend",
+"translation": "recommander",
+"example": "I recommend this movie.",
+"variant": "suggest",
+"trap": "Recommend + noun ou + -ing.",
+"explain": "Verbe utilisé pour conseiller quelque chose."
+},
+{
+"type": "grammar",
+"word": "modal + base verb",
+"translation": "modal + verbe sans "to"",
+"example": "You must go now.",
+"variant": "can go, should try",
+"trap": "Ne jamais ajouter "to" après un modal.",
+"explain": "Après can, must, should, would, could, on utilise la base verbale."
+},
+{
+"type": "grammar",
+"word": "must + base verb",
+"translation": "devoir (obligation)",
+"example": "I must finish this today.",
+"variant": "have to",
+"trap": "Pas de "to" après must.",
+"explain": "Exprime une obligation forte ou une nécessité."
+},
+{
+"type": "grammar",
+"word": "would like + noun",
+"translation": "aimerait",
+"example": "I would like a coffee.",
+"variant": "I'd like",
+"trap": "Ne pas dire "would like to pizza".",
+"explain": "Forme polie pour exprimer un désir."
+},
+{
+"type": "grammar",
+"word": "would like + to + verb",
+"translation": "aimerait faire",
+"example": "I would like to speak to you.",
+"variant": "I'd like to",
+"trap": null,
+"explain": "Utilisé pour exprimer une action souhaitée."
+},
+{
+"type": "grammar",
+"word": "everyone + singular verb",
+"translation": "tout le monde + verbe singulier",
+"example": "Everyone is ready.",
+"variant": null,
+"trap": "Ne pas utiliser un verbe pluriel.",
+"explain": "Les pronoms indéfinis prennent un verbe au singulier."
+},
+{
+"type": "grammar",
+"word": "something / anything / nothing",
+"translation": "quelque chose / rien / quoi que ce soit",
+"example": "I didn't buy anything.",
+"variant": null,
+"trap": "Pas de double négation avec nothing.",
+"explain": "Anything pour négatif et question. Nothing est déjà négatif."
+},
+{
+"type": "grammar",
+"word": "no one + affirmative verb",
+"translation": "personne + verbe affirmatif",
+"example": "No one knows the answer.",
+"variant": "nobody",
+"trap": "Ne pas dire "No one doesn't know".",
+"explain": "No one est déjà négatif."
+},
+{
+"type": "grammar",
+"word": "one (replacement)",
+"translation": "remplacement singulier",
+"example": "I like the blue one.",
+"variant": null,
+"trap": null,
+"explain": "Remplace un nom singulier déjà mentionné."
+},
+{
+"type": "grammar",
+"word": "ones (replacement)",
+"translation": "remplacement pluriel",
+"example": "I prefer the red ones.",
+"variant": null,
+"trap": null,
+"explain": "Remplace un nom pluriel déjà mentionné."
+},
+{
+"type": "vocabulary",
+"word": "console",
+"translation": "console de jeu",
+"example": "He bought a new console.",
+"variant": null,
+"trap": null,
+"explain": "Appareil pour jouer aux jeux vidéo."
+},
+{
+"type": "vocabulary",
+"word": "controller",
+"translation": "manette",
+"example": "The controller is not working.",
+"variant": null,
+"trap": null,
+"explain": "Objet utilisé pour contrôler un jeu."
+},
+{
+"type": "vocabulary",
+"word": "screen",
+"translation": "écran",
+"example": "The screen is too bright.",
+"variant": null,
+"trap": null,
+"explain": "Surface sur laquelle on regarde des images."
+},
+{
+"type": "vocabulary",
+"word": "violent",
+"translation": "violent",
+"example": "The movie was too violent.",
+"variant": null,
+"trap": null,
+"explain": "Qui implique de la violence."
+},
+{
+"type": "vocabulary",
+"word": "expect",
+"translation": "s’attendre à",
+"example": "I expect him to arrive soon.",
+"variant": null,
+"trap": "Structure: expect + someone + to + verb.",
+"explain": "Exprime une attente ou une supposition."
+}
+]
