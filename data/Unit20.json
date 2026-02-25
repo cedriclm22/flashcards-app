@@ -1,0 +1,272 @@
+[
+{
+"type": "expression",
+"word": "I need to get some money",
+"translation": "J'ai besoin de retirer de l'argent",
+"example": "I need to get some money before I go to the supermarket.",
+"variant": "I have to get some money",
+"trap": "Ne pas dire "I need get" sans "to".",
+"explain": "Use "need to + verb" to talk about necessity. It is followed by the base form of the verb."
+},
+{
+"type": "vocabulary",
+"word": "bank",
+"translation": "banque",
+"example": "She is going to the bank to get some money.",
+"variant": null,
+"trap": "Ne pas confondre avec "bench".",
+"explain": "A bank is a place where you keep or get money."
+},
+{
+"type": "vocabulary",
+"word": "mall",
+"translation": "centre commercial",
+"example": "I'm going to the mall to buy new clothes.",
+"variant": "shopping mall",
+"trap": null,
+"explain": "A mall is a large building with many different stores."
+},
+{
+"type": "vocabulary",
+"word": "post office",
+"translation": "bureau de poste",
+"example": "I need to go to the post office to mail a package.",
+"variant": null,
+"trap": "Ne pas dire "post" seul pour le lieu.",
+"explain": "A post office is where you send letters and packages."
+},
+{
+"type": "vocabulary",
+"word": "supermarket",
+"translation": "supermarché",
+"example": "We go to the supermarket every Saturday.",
+"variant": null,
+"trap": null,
+"explain": "A supermarket is a large store where you buy food."
+},
+{
+"type": "expression",
+"word": "I'm going to + place",
+"translation": "Je vais à + lieu",
+"example": "I'm going to the bank after work.",
+"variant": "I'm going to go to + place",
+"trap": "Ne pas oublier "to" après "going".",
+"explain": "Use "going to" to talk about planned actions."
+},
+{
+"type": "expression",
+"word": "I would like to mail this package",
+"translation": "Je voudrais envoyer ce colis",
+"example": "I would like to mail this package to Germany, please.",
+"variant": "I'd like to mail this package",
+"trap": "Ne pas dire "I like to mail" pour une demande polie.",
+"explain": "Use "would like" for polite requests."
+},
+{
+"type": "expression",
+"word": "How can I help you?",
+"translation": "Comment puis-je vous aider ?",
+"example": "Good morning. How can I help you?",
+"variant": "Can I help you?",
+"trap": null,
+"explain": "Common question used by clerks in stores and offices."
+},
+{
+"type": "expression",
+"word": "That's twenty-nine dollars total.",
+"translation": "Ça fait 29 dollars au total.",
+"example": "The total is fifty-four dollars.",
+"variant": "What's the total?",
+"trap": null,
+"explain": "Use "total" to say the final price."
+},
+{
+"type": "expression",
+"word": "Could you please sign here?",
+"translation": "Pouvez-vous signer ici s'il vous plaît ?",
+"example": "Could you please sign here before you leave?",
+"variant": "Can you please sign here?",
+"trap": null,
+"explain": "Polite request using "could"."
+},
+{
+"type": "expression",
+"word": "Here you go.",
+"translation": "Voilà.",
+"example": "Here you go. That's thirty dollars.",
+"variant": "Here it is.",
+"trap": null,
+"explain": "Used when giving something to someone."
+},
+{
+"type": "expression",
+"word": "Your change is one dollar.",
+"translation": "Votre monnaie est d'un dollar.",
+"example": "Your change is four dollars.",
+"variant": null,
+"trap": "Ne pas confondre "change" (monnaie) avec "change" (changer).",
+"explain": ""Change" is the money you get back after paying."
+},
+{
+"type": "expression",
+"word": "Keep the change.",
+"translation": "Gardez la monnaie.",
+"example": "It's fine. Keep the change.",
+"variant": null,
+"trap": null,
+"explain": "Used to tell someone they can keep the extra money."
+},
+{
+"type": "grammar",
+"word": "He works in a restaurant.",
+"translation": "Il travaille dans un restaurant.",
+"example": "She works downtown.",
+"variant": null,
+"trap": "Ne pas oublier le "s" à la 3e personne du singulier.",
+"explain": "In the present simple, add -s to verbs with he, she, it."
+},
+{
+"type": "grammar",
+"word": "He doesn't work on Sundays.",
+"translation": "Il ne travaille pas le dimanche.",
+"example": "She doesn't go to work early.",
+"variant": null,
+"trap": "Après "doesn't", le verbe reste à la base (pas de "s").",
+"explain": "Use "doesn't + base verb" for negative with he/she/it."
+},
+{
+"type": "grammar",
+"word": "Does he go to work?",
+"translation": "Est-ce qu'il va au travail ?",
+"example": "Does she live in New York?",
+"variant": null,
+"trap": "Ne pas ajouter "s" au verbe après "does".",
+"explain": "Use "Does + subject + base verb" for questions in present simple."
+},
+{
+"type": "grammar",
+"word": "What time does the movie start?",
+"translation": "À quelle heure commence le film ?",
+"example": "What time does the restaurant open?",
+"variant": "When does the movie start?",
+"trap": null,
+"explain": "Use "What time" to ask about specific time."
+},
+{
+"type": "grammar",
+"word": "Why do you live here?",
+"translation": "Pourquoi habites-tu ici ?",
+"example": "Why do you take the bus?",
+"variant": null,
+"trap": null,
+"explain": "Use "Why" to ask for a reason. The answer often uses "because"."
+},
+{
+"type": "grammar",
+"word": "Where does he work?",
+"translation": "Où travaille-t-il ?",
+"example": "Where do you live?",
+"variant": null,
+"trap": "Ne pas oublier "does" avec he/she/it.",
+"explain": "Use "Where + does + subject + base verb"."
+},
+{
+"type": "grammar",
+"word": "How old is she?",
+"translation": "Quel âge a-t-elle ?",
+"example": "How old are you?",
+"variant": null,
+"trap": "Ne pas dire "How many years".",
+"explain": "Use "How old" to ask about age."
+},
+{
+"type": "grammar",
+"word": "I'm from France. I'm French.",
+"translation": "Je viens de France. Je suis français(e).",
+"example": "I'm from Germany. I'm German.",
+"variant": "I'm from Italy. I'm Italian.",
+"trap": "Ne pas dire "I am France".",
+"explain": "Use "I'm from + country" and "I'm + nationality"."
+},
+{
+"type": "vocabulary",
+"word": "subway",
+"translation": "métro",
+"example": "I take the subway to work every day.",
+"variant": null,
+"trap": null,
+"explain": "A subway is an underground train in a city."
+},
+{
+"type": "expression",
+"word": "Take the subway.",
+"translation": "Prends le métro.",
+"example": "Take the subway. It's fast and cheap.",
+"variant": "Take the bus.",
+"trap": null,
+"explain": "Use "take" for public transport like bus or subway."
+},
+{
+"type": "vocabulary",
+"word": "package",
+"translation": "colis",
+"example": "She sends a package to her family.",
+"variant": null,
+"trap": null,
+"explain": "A package is something you send by mail."
+},
+{
+"type": "grammar",
+"word": "He goes to work at 8 a.m.",
+"translation": "Il va au travail à 8h.",
+"example": "She goes to work at 7 a.m.",
+"variant": null,
+"trap": "Ajouter "-es" à "go" avec he/she/it.",
+"explain": ""Go" becomes "goes" in the third person singular."
+},
+{
+"type": "expression",
+"word": "I live alone.",
+"translation": "Je vis seul(e).",
+"example": "He lives alone in New York.",
+"variant": null,
+"trap": null,
+"explain": ""Alone" describes someone who lives by themselves."
+},
+{
+"type": "expression",
+"word": "I'm single.",
+"translation": "Je suis célibataire.",
+"example": "She isn't married. She's single.",
+"variant": "I'm not married.",
+"trap": null,
+"explain": "Use "single" to say someone is not married."
+},
+{
+"type": "expression",
+"word": "I like working with children.",
+"translation": "J'aime travailler avec des enfants.",
+"example": "She likes working with children.",
+"variant": null,
+"trap": "Après "like", utiliser le verbe en -ing.",
+"explain": "Use "like + verb-ing" to talk about things you enjoy."
+},
+{
+"type": "expression",
+"word": "I take the subway to work.",
+"translation": "Je prends le métro pour aller au travail.",
+"example": "She takes the subway every morning.",
+"variant": null,
+"trap": "Ajouter "-s" à "take" avec he/she/it.",
+"explain": "Use "take" for transportation in present simple."
+},
+{
+"type": "expression",
+"word": "Why do you like your job?",
+"translation": "Pourquoi aimes-tu ton travail ?",
+"example": "Why do you like working here?",
+"variant": null,
+"trap": null,
+"explain": "Use "Why do you + base verb" to ask for reasons."
+}
+]
