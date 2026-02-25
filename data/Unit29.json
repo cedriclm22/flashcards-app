@@ -1,0 +1,227 @@
+[
+{
+"type": "expression",
+"word": "meet up",
+"translation": "se retrouver",
+"example": "I'm sorry, I can't meet up with you today.",
+"variant": "get together",
+"trap": "Ne pas dire "meet with" pour un rendez-vous informel entre amis.",
+"explain": "Utilisé pour parler d’un rendez-vous informel. Très courant pour organiser une rencontre."
+},
+{
+"type": "expression",
+"word": "out of town",
+"translation": "en dehors de la ville / absent",
+"example": "I'm out of town this week.",
+"variant": null,
+"trap": "Ne pas traduire littéralement par "hors de la ville".",
+"explain": "Expression figée pour dire qu’on n’est pas disponible car on est parti ailleurs."
+},
+{
+"type": "expression",
+"word": "show up",
+"translation": "se présenter / se montrer",
+"example": "You have to show up at 2:00 p.m.",
+"variant": "arrive",
+"trap": "Ne pas oublier "up". "Show" seul ne veut pas dire arriver.",
+"explain": "Utilisé pour dire qu’on doit être présent à un événement ou rendez-vous."
+},
+{
+"type": "vocabulary",
+"word": "availability",
+"translation": "disponibilité",
+"example": "Text me your availability for next week.",
+"variant": "available time",
+"trap": "Ne pas confondre avec "available" qui est un adjectif.",
+"explain": "Nom utilisé pour parler des moments où une personne est libre."
+},
+{
+"type": "expression",
+"word": "I would like to apologize for...",
+"translation": "je voudrais m'excuser pour...",
+"example": "I would like to apologize for being late.",
+"variant": "I apologize for...",
+"trap": "Ne pas oublier "for" + verbe en -ing.",
+"explain": "Structure formelle et polie pour présenter des excuses."
+},
+{
+"type": "grammar",
+"word": "Subject + verb + indirect object + direct object",
+"translation": "ordre avec complément indirect avant direct",
+"example": "Marti sent him a message.",
+"variant": "Marti sent a message to him.",
+"trap": "Ne pas utiliser "to" quand l’indirect object vient avant le direct object.",
+"explain": "Quand le complément indirect vient avant le direct, on ne met pas "to" ou "for"."
+},
+{
+"type": "grammar",
+"word": "Subject + verb + direct object + to/for + indirect object",
+"translation": "ordre avec complément indirect après direct",
+"example": "Shen bought flowers for her.",
+"variant": "Shen bought her flowers.",
+"trap": "Ne pas oublier "to" ou "for" quand l’indirect object est après.",
+"explain": "Si le complément indirect est placé après le complément direct, on utilise "to" ou "for"."
+},
+{
+"type": "expression",
+"word": "Let me introduce myself",
+"translation": "permettez-moi de me présenter",
+"example": "Let me introduce myself. My name is Shen Li.",
+"variant": "My name is...",
+"trap": "Ne pas dire "I introduce myself" dans ce contexte.",
+"explain": "Formule polie pour commencer une présentation formelle."
+},
+{
+"type": "expression",
+"word": "What can I do for you?",
+"translation": "que puis-je faire pour vous ?",
+"example": "Hello, what can I do for you?",
+"variant": "How can I help you?",
+"trap": "Ne pas traduire mot à mot depuis le français.",
+"explain": "Expression standard dans les situations professionnelles."
+},
+{
+"type": "expression",
+"word": "Are you free on...?",
+"translation": "es-tu libre le...?",
+"example": "Are you free on Sunday?",
+"variant": "Are you available on...?",
+"trap": "Utiliser "on" pour les jours.",
+"explain": "Structure clé pour organiser un rendez-vous."
+},
+{
+"type": "vocabulary",
+"word": "debt",
+"translation": "dette",
+"example": "He is in debt after borrowing money.",
+"variant": null,
+"trap": "Ne pas dire "a debt" sans contexte spécifique.",
+"explain": "Utilisé pour parler d’argent emprunté qui doit être remboursé."
+},
+{
+"type": "vocabulary",
+"word": "lend",
+"translation": "prêter",
+"example": "Can you lend me some money?",
+"variant": null,
+"trap": "Ne pas confondre avec "borrow".",
+"explain": "Lend = donner temporairement. Borrow = recevoir temporairement."
+},
+{
+"type": "vocabulary",
+"word": "borrow",
+"translation": "emprunter",
+"example": "She needs to borrow money to pay the bill.",
+"variant": null,
+"trap": "On dit "borrow from someone".",
+"explain": "Borrow signifie recevoir quelque chose que l’on rendra plus tard."
+},
+{
+"type": "grammar",
+"word": "too + adjective",
+"translation": "trop + adjectif (conséquence négative)",
+"example": "The car is too expensive.",
+"variant": null,
+"trap": "Ne pas confondre avec "very".",
+"explain": ""Too" implique un problème ou une conséquence négative."
+},
+{
+"type": "grammar",
+"word": "adjective + enough",
+"translation": "assez + adjectif",
+"example": "My apartment is big enough.",
+"variant": "not + adjective + enough",
+"trap": ""Enough" vient après l’adjectif.",
+"explain": ""Enough" indique que la quantité est suffisante."
+},
+{
+"type": "grammar",
+"word": "could (past ability/possibility)",
+"translation": "pouvais / pouvait",
+"example": "She could play tennis on Sunday.",
+"variant": null,
+"trap": "Le verbe reste à la base après "could".",
+"explain": "Utilisé pour parler de possibilité ou capacité dans le passé."
+},
+{
+"type": "grammar",
+"word": "couldn't (past impossibility)",
+"translation": "ne pouvais pas / ne pouvait pas",
+"example": "She couldn't go to the movies.",
+"variant": null,
+"trap": "Ne pas ajouter "did" avec couldn't.",
+"explain": "Utilisé pour dire que quelque chose n’était pas possible dans le passé."
+},
+{
+"type": "grammar",
+"word": "for example",
+"translation": "par exemple",
+"example": "I like many fruits, for example, apples and bananas.",
+"variant": null,
+"trap": "Toujours utiliser des virgules.",
+"explain": "Utilisé pour introduire des exemples précis qui soutiennent une idée."
+},
+{
+"type": "grammar",
+"word": "like (to give examples)",
+"translation": "comme / par exemple",
+"example": "I enjoy sports like football and tennis.",
+"variant": null,
+"trap": "Ne pas commencer une phrase avec "Like".",
+"explain": "Utilisé pour donner un exemple ou comparer."
+},
+{
+"type": "vocabulary",
+"word": "rent",
+"translation": "loyer",
+"example": "I have to pay the rent on the first of the month.",
+"variant": null,
+"trap": "Ne pas confondre avec "rent" verbe.",
+"explain": "Nom utilisé pour parler du paiement mensuel d’un logement."
+},
+{
+"type": "vocabulary",
+"word": "bill",
+"translation": "facture",
+"example": "The electricity bill is very high this month.",
+"variant": null,
+"trap": "Ne pas confondre avec "receipt".",
+"explain": "Document qui indique combien vous devez payer pour un service."
+},
+{
+"type": "expression",
+"word": "hang up",
+"translation": "raccrocher",
+"example": "I have to hang up now.",
+"variant": null,
+"trap": "Ne pas oublier "up".",
+"explain": "Expression utilisée pour terminer un appel téléphonique."
+},
+{
+"type": "vocabulary",
+"word": "delay",
+"translation": "retard",
+"example": "There are often delays at the airport.",
+"variant": null,
+"trap": "Prononciation : accent sur la deuxième syllabe.",
+"explain": "Utilisé pour parler d’un retard imprévu."
+},
+{
+"type": "vocabulary",
+"word": "depart",
+"translation": "partir (formel)",
+"example": "The plane doesn't depart on time.",
+"variant": "leave",
+"trap": "Plus formel que "leave".",
+"explain": "Souvent utilisé pour les avions, trains ou contextes officiels."
+},
+{
+"type": "expression",
+"word": "I’m afraid...",
+"translation": "je crains que...",
+"example": "I'm afraid I can't come tonight.",
+"variant": null,
+"trap": "Ne parle pas toujours de peur réelle.",
+"explain": "Formule polie pour annoncer une mauvaise nouvelle."
+}
+]
