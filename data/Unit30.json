@@ -1,0 +1,245 @@
+[
+{
+"type": "vocabulary",
+"word": "meet up",
+"translation": "se retrouver",
+"example": "I'm sorry, I can't meet up with you today.",
+"variant": "get together",
+"trap": "Ne pas dire "meet someone" si l'idée est se retrouver quelque part.",
+"explain": "Use "meet up" when you arrange to see someone socially. It is often used for informal plans."
+},
+{
+"type": "vocabulary",
+"word": "availability",
+"translation": "disponibilité",
+"example": "Text me your availability to meet.",
+"variant": "free time",
+"trap": "Ne pas confondre avec "available" qui est un adjectif.",
+"explain": ""Availability" is a noun. It refers to the times when someone is free."
+},
+{
+"type": "expression",
+"word": "show up",
+"translation": "se présenter / se pointer",
+"example": "You have to show up at 2:00 p.m.",
+"variant": "arrive",
+"trap": "Ne pas oublier la particule "up".",
+"explain": ""Show up" means to arrive somewhere, especially when you are expected."
+},
+{
+"type": "expression",
+"word": "out of town",
+"translation": "hors de la ville",
+"example": "He’s out of town on Monday.",
+"variant": null,
+"trap": "Ne pas ajouter d’article : pas "out of the town".",
+"explain": "Use this expression when someone is traveling and not in their usual city."
+},
+{
+"type": "vocabulary",
+"word": "audition",
+"translation": "audition / casting",
+"example": "When is the audition?",
+"variant": "casting",
+"trap": "La prononciation est /ɔːˈdɪʃən/, attention au son "sh".",
+"explain": "An audition is when an actor or performer tries to get a role."
+},
+{
+"type": "vocabulary",
+"word": "apologize",
+"translation": "s’excuser",
+"example": "I would like to apologize for being late.",
+"variant": "say sorry",
+"trap": "Ne pas oublier "for" + -ing : apologize for being late.",
+"explain": ""Apologize" is a formal way to say sorry. Use "for" before the reason."
+},
+{
+"type": "grammar",
+"word": "Direct and indirect objects",
+"translation": "complément direct et indirect",
+"example": "Marti sent him a message.",
+"variant": "Marti sent a message to him.",
+"trap": "Ne pas oublier "to" ou "for" si l'objet indirect est après.",
+"explain": "The direct object receives the action. The indirect object tells us who gets it."
+},
+{
+"type": "expression",
+"word": "Let me introduce myself",
+"translation": "Permettez-moi de me présenter",
+"example": "Let me introduce myself. My name is Shen Li.",
+"variant": "My name is...",
+"trap": "Ne pas dire "introduce me" si vous parlez de vous-même.",
+"explain": "Use this expression in formal situations when you start a conversation."
+},
+{
+"type": "expression",
+"word": "What can I do for you?",
+"translation": "Que puis-je faire pour vous ?",
+"example": "Hello, Shen. What can I do for you?",
+"variant": "How can I help you?",
+"trap": "Ne pas dire "What I can do for you?" (mauvais ordre).",
+"explain": "A polite question used in professional or service situations."
+},
+{
+"type": "vocabulary",
+"word": "credit card",
+"translation": "carte de crédit",
+"example": "He paid with a credit card.",
+"variant": null,
+"trap": "Ne pas confondre avec "debit card".",
+"explain": "A credit card lets you buy now and pay later."
+},
+{
+"type": "vocabulary",
+"word": "debt",
+"translation": "dette",
+"example": "He is in debt because he borrowed money.",
+"variant": null,
+"trap": "Ne pas dire "a debt" dans l’expression "in debt".",
+"explain": ""In debt" means you owe money to someone."
+},
+{
+"type": "vocabulary",
+"word": "borrow",
+"translation": "emprunter",
+"example": "She needs to borrow money to pay the bill.",
+"variant": null,
+"trap": "Ne pas confondre avec "lend".",
+"explain": "You borrow something when you take it and plan to give it back."
+},
+{
+"type": "vocabulary",
+"word": "lend",
+"translation": "prêter",
+"example": "Can you lend me some money?",
+"variant": null,
+"trap": "Attention à la structure : lend someone something.",
+"explain": "You lend something when you give it to someone and expect it back."
+},
+{
+"type": "grammar",
+"word": "Prepositions: at / in / on / with / for",
+"translation": "prépositions courantes",
+"example": "I had dinner with a friend.",
+"variant": null,
+"trap": "Ne pas dire "in Monday" → "on Monday".",
+"explain": "Use "at" for specific places, "on" for days, "in" for rooms or periods, "with" for people, and "for" for duration."
+},
+{
+"type": "grammar",
+"word": "for example",
+"translation": "par exemple",
+"example": "I eat many kinds of vegetables, for example, carrots and corn.",
+"variant": null,
+"trap": "Toujours mettre des virgules autour.",
+"explain": "Use "for example" to introduce specific examples that support your idea."
+},
+{
+"type": "grammar",
+"word": "like (giving examples)",
+"translation": "comme / tel que",
+"example": "She cooks delicious things, like spaghetti and stew.",
+"variant": null,
+"trap": "Ne pas commencer une phrase avec "Like".",
+"explain": "Use "like" to give examples inside a sentence."
+},
+{
+"type": "vocabulary",
+"word": "fill out",
+"translation": "remplir (un formulaire)",
+"example": "Please fill out this form.",
+"variant": "complete",
+"trap": "Ne pas oublier "out".",
+"explain": ""Fill out" means to write the required information on a form."
+},
+{
+"type": "vocabulary",
+"word": "eat out",
+"translation": "manger au restaurant",
+"example": "We will eat out tonight.",
+"variant": "go to a restaurant",
+"trap": "Ne pas confondre avec "eat outside".",
+"explain": ""Eat out" means to eat at a restaurant instead of at home."
+},
+{
+"type": "grammar",
+"word": "too + adjective",
+"translation": "trop + adjectif",
+"example": "The car is too expensive.",
+"variant": null,
+"trap": "Ne pas utiliser "too" pour dire "aussi".",
+"explain": "Use "too" to show there is more than necessary, often with a negative result."
+},
+{
+"type": "grammar",
+"word": "adjective + enough",
+"translation": "assez + adjectif",
+"example": "The apartment is not big enough.",
+"variant": null,
+"trap": ""Enough" vient après l’adjectif.",
+"explain": "Use "enough" to show the quantity is sufficient. With "not", it means insufficient."
+},
+{
+"type": "grammar",
+"word": "could / couldn't (past ability)",
+"translation": "pouvait / ne pouvait pas",
+"example": "She couldn't go to the movies on Thursday.",
+"variant": null,
+"trap": "Utiliser la base verbale après "could".",
+"explain": "Use "could" for past possibility or ability. Use "couldn't" for impossibility."
+},
+{
+"type": "vocabulary",
+"word": "depart",
+"translation": "partir (transport)",
+"example": "The plane doesn't depart on time.",
+"variant": "leave",
+"trap": "Plus formel que "leave".",
+"explain": ""Depart" is often used for planes, trains, and official travel."
+},
+{
+"type": "expression",
+"word": "I'm afraid...",
+"translation": "J’ai bien peur que...",
+"example": "I'm afraid I am busy tomorrow.",
+"variant": null,
+"trap": "Ce n’est pas toujours lié à la peur réelle.",
+"explain": "Use "I'm afraid" to say something negative politely."
+},
+{
+"type": "expression",
+"word": "I'd love to come",
+"translation": "J’aimerais beaucoup venir",
+"example": "I'd love to come to your party.",
+"variant": null,
+"trap": "Ne pas oublier "to" + verbe.",
+"explain": "A polite and enthusiastic way to accept an invitation."
+},
+{
+"type": "expression",
+"word": "Are you available...?",
+"translation": "Es-tu disponible... ?",
+"example": "Are you available tonight?",
+"variant": "Are you free...?",
+"trap": "Ne pas oublier l’inversion question.",
+"explain": "Use this to check someone's schedule before making plans."
+},
+{
+"type": "expression",
+"word": "I have to go now",
+"translation": "Je dois y aller",
+"example": "I have to go now. See you later.",
+"variant": null,
+"trap": "Ne pas dire "I must to go".",
+"explain": "Use this to end a conversation politely."
+},
+{
+"type": "expression",
+"word": "Good luck",
+"translation": "Bonne chance",
+"example": "Good luck at your audition!",
+"variant": null,
+"trap": "Ne pas ajouter d’article : pas "a good luck".",
+"explain": "Use this to wish someone success."
+}
+]
