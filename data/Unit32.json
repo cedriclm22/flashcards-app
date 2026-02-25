@@ -1,0 +1,274 @@
+```json
+[
+  {
+    "type": "grammar",
+    "word": "comparative adjective + than",
+    "translation": "comparatif + que",
+    "example": "This chair is more comfortable than that one.",
+    "variant": "bigger than / more interesting than",
+    "trap": "Ne pas oublier \"than\" après un comparatif.",
+    "explain": "On utilise le comparatif pour comparer deux personnes ou choses. Les adjectifs courts prennent -er, les longs utilisent more."
+  },
+  {
+    "type": "grammar",
+    "word": "adjective + -er",
+    "translation": "comparatif court (-er)",
+    "example": "My apartment is bigger than yours.",
+    "variant": "smaller / taller / older",
+    "trap": "Attention au doublement de consonne : big → bigger.",
+    "explain": "Les adjectifs courts prennent -er. Si l’adjectif finit par voyelle + consonne, on double la consonne."
+  },
+  {
+    "type": "grammar",
+    "word": "more + adjective",
+    "translation": "plus + adjectif long",
+    "example": "This movie is more interesting than the book.",
+    "variant": "more comfortable / more expensive",
+    "trap": "Ne pas dire \"interestinger\".",
+    "explain": "Les adjectifs de deux syllabes ou plus utilisent \"more\" au comparatif."
+  },
+  {
+    "type": "grammar",
+    "word": "better / worse",
+    "translation": "meilleur / pire",
+    "example": "I feel better today, but yesterday was worse.",
+    "variant": "farther / further",
+    "trap": "Ne pas dire \"gooder\" ou \"badder\".",
+    "explain": "Ce sont des formes irrégulières de good et bad."
+  },
+  {
+    "type": "grammar",
+    "word": "might (possibility)",
+    "translation": "il se peut que",
+    "example": "I might be late for work.",
+    "variant": "might not",
+    "trap": "Might ne prend pas de \"to\" après.",
+    "explain": "Might exprime une possibilité incertaine au présent ou futur."
+  },
+  {
+    "type": "grammar",
+    "word": "can (ability / possibility)",
+    "translation": "pouvoir",
+    "example": "I can help you later.",
+    "variant": "can't possibly",
+    "trap": "Ne pas ajouter \"to\" après can.",
+    "explain": "Can exprime une capacité ou une possibilité."
+  },
+  {
+    "type": "grammar",
+    "word": "can't possibly",
+    "translation": "c'est impossible que",
+    "example": "It can't possibly be John.",
+    "variant": null,
+    "trap": "Exprime certitude négative forte.",
+    "explain": "Utilisé quand on est certain que quelque chose est impossible."
+  },
+  {
+    "type": "grammar",
+    "word": "wh-word + auxiliary + subject + verb",
+    "translation": "structure question en wh-",
+    "example": "Where did you go last year?",
+    "variant": "Why are you leaving?",
+    "trap": "Ne pas oublier l'inversion sujet/verbe.",
+    "explain": "Les questions en wh- utilisent un auxiliaire avant le sujet."
+  },
+  {
+    "type": "grammar",
+    "word": "Who / What + this / that",
+    "translation": "Qui / Qu’est-ce que (près / loin)",
+    "example": "Who’s that? It’s our new boss.",
+    "variant": "What’s this?",
+    "trap": "Répondre avec \"It’s\".",
+    "explain": "On utilise this pour proche et that pour plus éloigné."
+  },
+  {
+    "type": "grammar",
+    "word": "noun + of + noun",
+    "translation": "nom + de + nom",
+    "example": "The roof of the house is new.",
+    "variant": "the rest of",
+    "trap": "Ne pas inverser l’ordre.",
+    "explain": "Structure utilisée pour exprimer une relation de possession ou partie."
+  },
+  {
+    "type": "grammar",
+    "word": "also / too / as well",
+    "translation": "aussi",
+    "example": "I am tired. I am also sick.",
+    "variant": "I am tired, too.",
+    "trap": "Also ne va pas en fin de phrase.",
+    "explain": "Also se place avant le verbe principal ou après be. Too et as well vont en fin de phrase."
+  },
+  {
+    "type": "vocabulary",
+    "word": "common cold",
+    "translation": "rhume",
+    "example": "I think I have a common cold.",
+    "variant": null,
+    "trap": "Pas \"a cold common\".",
+    "explain": "Expression fixe pour désigner un rhume."
+  },
+  {
+    "type": "vocabulary",
+    "word": "stuffy / blocked-up nose",
+    "translation": "nez bouché",
+    "example": "My nose is totally blocked up.",
+    "variant": "stuffy nose",
+    "trap": "Ne pas dire \"block nose\".",
+    "explain": "Décrit un nez obstrué, souvent avec un rhume."
+  },
+  {
+    "type": "vocabulary",
+    "word": "runny nose",
+    "translation": "nez qui coule",
+    "example": "I have a runny nose.",
+    "variant": null,
+    "trap": "Pas \"running nose\".",
+    "explain": "Expression fixe pour un symptôme du rhume."
+  },
+  {
+    "type": "vocabulary",
+    "word": "sore throat",
+    "translation": "mal de gorge",
+    "example": "I have a sore throat and a cough.",
+    "variant": null,
+    "trap": "Pas \"painful throat\".",
+    "explain": "Expression naturelle pour une gorge douloureuse."
+  },
+  {
+    "type": "vocabulary",
+    "word": "fever",
+    "translation": "fièvre",
+    "example": "Do you have a fever?",
+    "variant": null,
+    "trap": "Prononciation /ˈfiːvər/.",
+    "explain": "Température corporelle élevée."
+  },
+  {
+    "type": "vocabulary",
+    "word": "contagious",
+    "translation": "contagieux",
+    "example": "Stay away. I might be contagious.",
+    "variant": null,
+    "trap": "Ne pas confondre avec \"infected\".",
+    "explain": "Qui peut se transmettre d'une personne à une autre."
+  },
+  {
+    "type": "vocabulary",
+    "word": "vitamins",
+    "translation": "vitamines",
+    "example": "I take vitamins every morning.",
+    "variant": null,
+    "trap": "Souvent au pluriel.",
+    "explain": "Compléments pour rester en bonne santé."
+  },
+  {
+    "type": "vocabulary",
+    "word": "recover",
+    "translation": "se rétablir",
+    "example": "You need rest to recover.",
+    "variant": "get better",
+    "trap": "Ne pas oublier \"from\" : recover from.",
+    "explain": "Revenir à un bon état de santé."
+  },
+  {
+    "type": "expression",
+    "word": "I don't have any energy",
+    "translation": "je n'ai aucune énergie",
+    "example": "I don't have any energy today.",
+    "variant": "I feel weak",
+    "trap": "Utiliser \"any\" en négatif.",
+    "explain": "Expression naturelle pour dire qu'on est épuisé."
+  },
+  {
+    "type": "expression",
+    "word": "I guess we didn't make it",
+    "translation": "je suppose qu'on n'y est pas arrivés",
+    "example": "We’re late. I guess we didn’t make it.",
+    "variant": null,
+    "trap": "Make it = réussir / arriver à temps.",
+    "explain": "Expression informelle pour dire qu’on a échoué ou qu’on est en retard."
+  },
+  {
+    "type": "expression",
+    "word": "We might be in trouble",
+    "translation": "on pourrait avoir des problèmes",
+    "example": "If we're late again, we might be in trouble.",
+    "variant": null,
+    "trap": "Be in trouble = avoir des ennuis.",
+    "explain": "Expression utilisée quand une conséquence négative est possible."
+  },
+  {
+    "type": "expression",
+    "word": "lose one's voice",
+    "translation": "perdre sa voix",
+    "example": "I don’t want to lose my voice.",
+    "variant": null,
+    "trap": "Dire \"my voice\" et pas \"the voice\".",
+    "explain": "Expression pour ne plus pouvoir parler normalement."
+  },
+  {
+    "type": "vocabulary",
+    "word": "complimentary",
+    "translation": "gratuit",
+    "example": "The drinks are complimentary.",
+    "variant": "free",
+    "trap": "Ne signifie pas \"compliment\".",
+    "explain": "Offert gratuitement."
+  },
+  {
+    "type": "vocabulary",
+    "word": "recruit",
+    "translation": "recruter",
+    "example": "The company needs to recruit new employees.",
+    "variant": "hire",
+    "trap": "Prononciation /rɪˈkruːt/.",
+    "explain": "Chercher et engager de nouveaux employés."
+  },
+  {
+    "type": "vocabulary",
+    "word": "screen (candidates)",
+    "translation": "sélectionner / filtrer",
+    "example": "HR screens the candidates before interviews.",
+    "variant": null,
+    "trap": "Pas lié au cinéma ici.",
+    "explain": "Analyser pour vérifier si quelqu’un correspond au poste."
+  },
+  {
+    "type": "vocabulary",
+    "word": "Human Resources (HR)",
+    "translation": "Ressources humaines",
+    "example": "HR handles recruitment and employee relations.",
+    "variant": null,
+    "trap": "Toujours pluriel.",
+    "explain": "Département chargé des employés."
+  },
+  {
+    "type": "vocabulary",
+    "word": "Moroccan",
+    "translation": "marocain",
+    "example": "Moroccan food is very tasty.",
+    "variant": null,
+    "trap": "Majuscule pour nationalités.",
+    "explain": "Adjectif de nationalité."
+  },
+  {
+    "type": "vocabulary",
+    "word": "bland",
+    "translation": "fade",
+    "example": "The food was bland and boring.",
+    "variant": null,
+    "trap": "Opposé de spicy.",
+    "explain": "Sans goût ou peu épicé."
+  },
+  {
+    "type": "vocabulary",
+    "word": "microphone",
+    "translation": "micro",
+    "example": "Can you speak into the microphone?",
+    "variant": null,
+    "trap": "Prononciation /ˈmaɪkrəfoʊn/.",
+    "explain": "Appareil qui amplifie la voix."
+  }
+]
+```
