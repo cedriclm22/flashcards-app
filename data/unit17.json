@@ -1,0 +1,272 @@
+[
+{
+"type": "vocabulary",
+"word": "diner",
+"translation": "diner, petit restaurant",
+"example": "We can go to the diner down the street.",
+"variant": "restaurant",
+"trap": "Ne pas confondre avec "dinner" (le repas du soir).",
+"explain": "A diner is usually a simple, informal restaurant. It is common in American English."
+},
+{
+"type": "vocabulary",
+"word": "café",
+"translation": "café",
+"example": "Let’s get coffee at the new café.",
+"variant": null,
+"trap": "En anglais, le mot est souvent prononcé /ˈkæfeɪ/.",
+"explain": "A café is a place where you drink coffee and eat light food."
+},
+{
+"type": "vocabulary",
+"word": "greasy",
+"translation": "gras, huileux",
+"example": "The food is too greasy for me.",
+"variant": "oily",
+"trap": "Ne pas dire "greasy food is fat".",
+"explain": "Greasy describes food with too much oil or fat. It often has a negative meaning."
+},
+{
+"type": "vocabulary",
+"word": "fridge",
+"translation": "réfrigérateur",
+"example": "There is some milk in the fridge.",
+"variant": "refrigerator",
+"trap": "Attention à l’orthographe : pas "frig".",
+"explain": "Fridge is the common short form of refrigerator."
+},
+{
+"type": "vocabulary",
+"word": "stomach",
+"translation": "estomac",
+"example": "Fast food is not good for your stomach.",
+"variant": null,
+"trap": "Ne pas confondre avec "belly" qui est plus informel.",
+"explain": "Stomach refers to the organ inside your body that digests food."
+},
+{
+"type": "expression",
+"word": "go out for dinner",
+"translation": "sortir dîner",
+"example": "Do you want to go out for dinner tonight?",
+"variant": "eat out",
+"trap": "Ne pas dire "go outside for dinner".",
+"explain": "Go out for dinner means eating at a restaurant, not at home."
+},
+{
+"type": "expression",
+"word": "What kind of restaurant do you want to go to?",
+"translation": "Quel type de restaurant veux-tu ?",
+"example": "What kind of restaurant do you want to go to tonight?",
+"variant": "What kind of food do you want?",
+"trap": "Ne pas oublier "to" à la fin.",
+"explain": "The question ends with "to" because the verb is "go to"."
+},
+{
+"type": "expression",
+"word": "I don't think so.",
+"translation": "Je ne pense pas.",
+"example": "Do you want fast food? I don’t think so.",
+"variant": null,
+"trap": "Ne pas dire "I think no".",
+"explain": "Use this expression to politely disagree."
+},
+{
+"type": "grammar",
+"word": "There is some + uncountable noun",
+"translation": "Il y a du/de la",
+"example": "There is some food in the fridge.",
+"variant": null,
+"trap": "Ne pas utiliser "a" avec un nom indénombrable.",
+"explain": "Use some with uncountable nouns in positive sentences."
+},
+{
+"type": "grammar",
+"word": "There are some + plural noun",
+"translation": "Il y a des",
+"example": "There are some apples on the table.",
+"variant": null,
+"trap": "Ne pas oublier le "s" du pluriel.",
+"explain": "Use this structure for plural countable nouns in positive sentences."
+},
+{
+"type": "grammar",
+"word": "There isn’t any + uncountable noun",
+"translation": "Il n’y a pas de",
+"example": "There isn’t any bread left.",
+"variant": null,
+"trap": "Ne pas utiliser "some" dans les phrases négatives.",
+"explain": "Use any in negative sentences with uncountable nouns."
+},
+{
+"type": "grammar",
+"word": "There aren’t any + plural noun",
+"translation": "Il n’y a pas de (pluriel)",
+"example": "There aren’t any vegetables.",
+"variant": null,
+"trap": "Attention à l’accord : aren’t + plural.",
+"explain": "Use any with plural nouns in negative sentences."
+},
+{
+"type": "grammar",
+"word": "Is there any + uncountable noun?",
+"translation": "Y a-t-il du/de la ?",
+"example": "Is there any milk in the fridge?",
+"variant": null,
+"trap": "Ne pas dire "Is there some" quand on ne sait pas.",
+"explain": "Use any in questions when you are not sure if something exists."
+},
+{
+"type": "grammar",
+"word": "Would you like some + noun?",
+"translation": "Voulez-vous du/de la ?",
+"example": "Would you like some coffee?",
+"variant": null,
+"trap": "Ne pas utiliser "any" dans une offre.",
+"explain": "Use some in offers and requests."
+},
+{
+"type": "grammar",
+"word": "Can I have + noun?",
+"translation": "Puis-je avoir… ?",
+"example": "Can I have a sandwich, please?",
+"variant": "Could I have + noun?",
+"trap": "Ne pas oublier "please" pour être poli.",
+"explain": "Use this structure to ask for something in a restaurant or shop."
+},
+{
+"type": "grammar",
+"word": "Could you + base verb?",
+"translation": "Pourriez-vous… ?",
+"example": "Could you bring me a glass of water?",
+"variant": "Can you + base verb?",
+"trap": "Ne pas ajouter "to" après could.",
+"explain": "Could is more polite than can for requests."
+},
+{
+"type": "grammar",
+"word": "Could we have a table for two?",
+"translation": "Pourrions-nous avoir une table pour deux ?",
+"example": "Could we have a table for four, please?",
+"variant": null,
+"trap": "Ne pas dire "a table of two".",
+"explain": "Use "for" to indicate the number of people."
+},
+{
+"type": "expression",
+"word": "Can I get you something to drink?",
+"translation": "Puis-je vous apporter quelque chose à boire ?",
+"example": "Can I get you something to drink while you wait?",
+"variant": "Can I bring you something to drink?",
+"trap": "Ne pas dire "take you something to drink".",
+"explain": "Common phrase used by waiters in restaurants."
+},
+{
+"type": "expression",
+"word": "I would like + noun",
+"translation": "Je voudrais",
+"example": "I would like a cup of coffee.",
+"variant": "I’d like + noun",
+"trap": "Ne pas dire "I want" dans un contexte formel.",
+"explain": "More polite than saying "I want"."
+},
+{
+"type": "vocabulary",
+"word": "bistro",
+"translation": "bistro",
+"example": "The French bistro downtown is really good.",
+"variant": null,
+"trap": "Prononciation anglaise /ˈbiːstroʊ/.",
+"explain": "A bistro is a small, informal restaurant."
+},
+{
+"type": "vocabulary",
+"word": "chips",
+"translation": "chips, frites (US context)",
+"example": "Can I have some chips with my sandwich?",
+"variant": null,
+"trap": "En anglais américain, "chips" ≠ "crisps" en britannique.",
+"explain": "Meaning depends on the variety of English."
+},
+{
+"type": "vocabulary",
+"word": "sandwich",
+"translation": "sandwich",
+"example": "She made me a delicious sandwich.",
+"variant": null,
+"trap": "Pluriel : sandwiches.",
+"explain": "Countable noun, so use a/an or plural form."
+},
+{
+"type": "expression",
+"word": "Ladies and gentlemen,",
+"translation": "Mesdames et Messieurs,",
+"example": "Ladies and gentlemen, welcome to our restaurant.",
+"variant": null,
+"trap": "Utilisé dans un contexte formel uniquement.",
+"explain": "Formal way to begin a presentation or speech."
+},
+{
+"type": "expression",
+"word": "I would like to introduce you to",
+"translation": "Je voudrais vous présenter",
+"example": "I would like to introduce you to our new manager.",
+"variant": "I’m here to introduce you to",
+"trap": "Ne pas oublier "to".",
+"explain": "Common phrase in professional presentations."
+},
+{
+"type": "vocabulary",
+"word": "employee",
+"translation": "employé",
+"example": "The company has many employees.",
+"variant": null,
+"trap": "Prononciation /ɪmˈplɔɪiː/.",
+"explain": "An employee is a person who works for a company."
+},
+{
+"type": "vocabulary",
+"word": "boss",
+"translation": "patron, chef",
+"example": "My boss is very supportive.",
+"variant": "manager",
+"trap": "Ne pas confondre avec "big boss" qui est informel.",
+"explain": "A boss is the person in charge."
+},
+{
+"type": "vocabulary",
+"word": "product",
+"translation": "produit",
+"example": "This product is very useful.",
+"variant": null,
+"trap": "Ne pas confondre avec "production".",
+"explain": "A product is something a company makes and sells."
+},
+{
+"type": "expression",
+"word": "I am excited to introduce",
+"translation": "Je suis ravi de présenter",
+"example": "I am excited to introduce our new product.",
+"variant": null,
+"trap": "Ne pas dire "I am exciting".",
+"explain": "Excited describes your feeling, not the thing."
+},
+{
+"type": "expression",
+"word": "We want to + base verb",
+"translation": "Nous voulons + verbe",
+"example": "We want to change the way people work.",
+"variant": null,
+"trap": "Ne pas oublier "to".",
+"explain": "Basic structure to express intention or goal."
+},
+{
+"type": "expression",
+"word": "work hard",
+"translation": "travailler dur",
+"example": "She works hard every day.",
+"variant": null,
+"trap": "Ne pas dire "work hardly".",
+"explain": "Hard is an adjective and adverb; hardly means almost not."
+}
+]
