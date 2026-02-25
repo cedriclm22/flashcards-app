@@ -1,0 +1,236 @@
+[
+{
+"type": "vocabulary",
+"word": "awesome",
+"translation": "génial, super",
+"example": "You look awesome in that jacket.",
+"variant": "great",
+"trap": "Ne pas confondre avec "awful" qui signifie terrible.",
+"explain": "Adjectif positif utilisé pour exprimer un fort enthousiasme."
+},
+{
+"type": "vocabulary",
+"word": "boring",
+"translation": "ennuyeux",
+"example": "I think this movie is boring.",
+"variant": "not very exciting",
+"trap": "Ne pas dire "I am boring" si tu veux dire que tu t’ennuies.",
+"explain": "Décrit quelque chose qui ne suscite pas d’intérêt."
+},
+{
+"type": "vocabulary",
+"word": "ugly",
+"translation": "moche, laid",
+"example": "I think that sofa is ugly.",
+"variant": null,
+"trap": "Ne pas confondre avec "bad" qui signifie mauvais.",
+"explain": "Adjectif utilisé pour parler d’apparence négative."
+},
+{
+"type": "vocabulary",
+"word": "favorite",
+"translation": "préféré",
+"example": "This is my favorite shirt.",
+"variant": null,
+"trap": "Ne pas oublier le "u" en anglais américain : "favorite".",
+"explain": "Utilisé pour parler de ce qu’on préfère parmi plusieurs choix."
+},
+{
+"type": "vocabulary",
+"word": "scared",
+"translation": "effrayé",
+"example": "I'm scared of the dark.",
+"variant": "afraid",
+"trap": "Ne pas dire "I am scary" qui signifie effrayant.",
+"explain": "Décrit un sentiment de peur."
+},
+{
+"type": "vocabulary",
+"word": "delicious",
+"translation": "délicieux",
+"example": "I love this dish. It's delicious.",
+"variant": null,
+"trap": null,
+"explain": "Utilisé pour décrire une nourriture très bonne."
+},
+{
+"type": "vocabulary",
+"word": "awful",
+"translation": "horrible",
+"example": "This soup is awful.",
+"variant": "terrible",
+"trap": "Ne pas confondre avec "awesome".",
+"explain": "Adjectif très négatif pour décrire quelque chose de mauvais."
+},
+{
+"type": "vocabulary",
+"word": "tough",
+"translation": "dur (à mâcher)",
+"example": "This beef is too tough.",
+"variant": null,
+"trap": "Ne pas confondre avec "hard" dans un autre contexte.",
+"explain": "Souvent utilisé pour parler de viande difficile à mâcher."
+},
+{
+"type": "vocabulary",
+"word": "weird",
+"translation": "bizarre",
+"example": "The dish tastes weird.",
+"variant": "strange",
+"trap": null,
+"explain": "Utilisé pour décrire quelque chose d’inhabituel ou étrange."
+},
+{
+"type": "grammar",
+"word": "like + verb-ing",
+"translation": "aimer faire quelque chose",
+"example": "I like playing tennis.",
+"variant": "love + verb-ing",
+"trap": "Ne pas dire "I like play tennis".",
+"explain": "Après like, on utilise toujours le verbe en -ing."
+},
+{
+"type": "grammar",
+"word": "love + verb-ing",
+"translation": "adorer faire quelque chose",
+"example": "She loves reading books.",
+"variant": "really like + verb-ing",
+"trap": null,
+"explain": "Même structure que like, mais plus fort."
+},
+{
+"type": "grammar",
+"word": "hate + verb-ing",
+"translation": "détester faire quelque chose",
+"example": "He hates cleaning his apartment.",
+"variant": null,
+"trap": "Ne pas oublier le -s à la 3e personne : "He hates".",
+"explain": "Utilisé pour exprimer une forte aversion."
+},
+{
+"type": "grammar",
+"word": "dislike + noun / verb-ing",
+"translation": "ne pas aimer",
+"example": "She dislikes garlic.",
+"variant": "do not like",
+"trap": "Ne pas dire "She dislike".",
+"explain": "Verbe plus formel que "don’t like"."
+},
+{
+"type": "expression",
+"word": "I really like...",
+"translation": "J’aime vraiment...",
+"example": "I really like this blue sofa.",
+"variant": "I love...",
+"trap": null,
+"explain": "Permet d’exprimer un goût fort de manière naturelle."
+},
+{
+"type": "expression",
+"word": "I don't like it.",
+"translation": "Je n’aime pas ça.",
+"example": "I don't like it. It's boring.",
+"variant": null,
+"trap": "Ne pas oublier l’auxiliaire "do".",
+"explain": "Structure négative au présent simple."
+},
+{
+"type": "expression",
+"word": "I think it's...",
+"translation": "Je pense que c’est...",
+"example": "I think it's funny.",
+"variant": null,
+"trap": "Ne pas oublier le "s" à "it's".",
+"explain": "Expression utile pour donner son opinion."
+},
+{
+"type": "expression",
+"word": "It's my favorite.",
+"translation": "C’est mon préféré.",
+"example": "This restaurant is my favorite.",
+"variant": null,
+"trap": null,
+"explain": "Structure simple pour exprimer une préférence forte."
+},
+{
+"type": "grammar",
+"word": "Do you like + verb-ing?",
+"translation": "Est-ce que tu aimes faire... ?",
+"example": "Do you like playing golf?",
+"variant": null,
+"trap": "Ne pas utiliser l’infinitif sans -ing.",
+"explain": "Question au présent simple avec like."
+},
+{
+"type": "grammar",
+"word": "He/She likes + verb-ing",
+"translation": "Il/Elle aime faire...",
+"example": "He likes running.",
+"variant": null,
+"trap": "Ne pas oublier le -s à "likes".",
+"explain": "Au présent simple, on ajoute -s à la 3e personne."
+},
+{
+"type": "grammar",
+"word": "don't / doesn't like + verb-ing",
+"translation": "ne pas aimer faire",
+"example": "She doesn't like playing sports.",
+"variant": null,
+"trap": "Après "doesn't", le verbe reste à la base.",
+"explain": "Structure négative au présent simple."
+},
+{
+"type": "grammar",
+"word": "play + sport",
+"translation": "jouer à un sport",
+"example": "I play tennis every weekend.",
+"variant": null,
+"trap": "Ne pas dire "do tennis".",
+"explain": "On utilise "play" avec les sports avec balle."
+},
+{
+"type": "grammar",
+"word": "go + activity (-ing)",
+"translation": "aller faire une activité",
+"example": "She goes swimming every morning.",
+"variant": null,
+"trap": "Ne pas oublier -ing.",
+"explain": "Utilisé pour les activités comme swimming, cycling."
+},
+{
+"type": "grammar",
+"word": "do + activity",
+"translation": "faire une activité",
+"example": "He needs to do homework.",
+"variant": null,
+"trap": "Ne pas dire "make homework".",
+"explain": "Utilisé pour homework, exercise, laundry."
+},
+{
+"type": "grammar",
+"word": "but",
+"translation": "mais",
+"example": "I like coffee, but I don't like tea.",
+"variant": null,
+"trap": "Mettre une virgule avant "but".",
+"explain": "Permet d’opposer deux idées."
+},
+{
+"type": "expression",
+"word": "What do you like to do?",
+"translation": "Qu’aimes-tu faire ?",
+"example": "What do you like to do in your free time?",
+"variant": null,
+"trap": null,
+"explain": "Question fréquente pour parler des loisirs."
+},
+{
+"type": "expression",
+"word": "I hate it!",
+"translation": "Je déteste ça !",
+"example": "This beef is too tough. I hate it!",
+"variant": null,
+"trap": null,
+"explain": "Expression forte pour exprimer un rejet."
+}
+]
