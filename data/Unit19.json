@@ -1,0 +1,227 @@
+[
+  {
+    "type": "expression",
+    "word": "I really like...",
+    "translation": "J’aime vraiment...",
+    "example": "I really like this jacket.",
+    "variant": "I like ... a lot",
+    "trap": "Ne pas dire \"I very like\".",
+    "explain": "Use \"really\" before the verb to intensify your opinion. It sounds natural in everyday conversation."
+  },
+  {
+    "type": "expression",
+    "word": "I don't like...",
+    "translation": "Je n’aime pas...",
+    "example": "I don't like this shirt.",
+    "variant": "I dislike ...",
+    "trap": "Ne pas oublier l’auxiliaire \"do\".",
+    "explain": "In the present simple negative, use \"do not\" or \"don't\" + base verb."
+  },
+  {
+    "type": "expression",
+    "word": "I think it's + adjective",
+    "translation": "Je pense que c’est + adjectif",
+    "example": "I think it's boring.",
+    "variant": "I think it looks + adjective",
+    "trap": "Ne pas dire \"I think is boring\".",
+    "explain": "You must keep the subject \"it\" after \"I think\"."
+  },
+  {
+    "type": "vocabulary",
+    "word": "awesome",
+    "translation": "génial",
+    "example": "You look awesome in that dress.",
+    "variant": "great",
+    "trap": null,
+    "explain": "Informal positive adjective used to express strong approval."
+  },
+  {
+    "type": "vocabulary",
+    "word": "boring",
+    "translation": "ennuyeux",
+    "example": "The movie was boring.",
+    "variant": null,
+    "trap": "Ne pas confondre avec \"bored\" (ressenti).",
+    "explain": "\"Boring\" describes something that causes boredom."
+  },
+  {
+    "type": "vocabulary",
+    "word": "ugly",
+    "translation": "moche",
+    "example": "I think this sofa is ugly.",
+    "variant": null,
+    "trap": null,
+    "explain": "Used to describe something unattractive."
+  },
+  {
+    "type": "vocabulary",
+    "word": "favorite",
+    "translation": "préféré",
+    "example": "Pizza is my favorite food.",
+    "variant": "favourite (UK)",
+    "trap": null,
+    "explain": "Use \"my favorite\" before a noun to show preference."
+  },
+  {
+    "type": "grammar",
+    "word": "like + verb + -ing",
+    "translation": "aimer + verbe en -ing",
+    "example": "I like playing tennis.",
+    "variant": null,
+    "trap": "Ne pas dire \"I like play tennis\".",
+    "explain": "After \"like\", use the verb with -ing."
+  },
+  {
+    "type": "grammar",
+    "word": "love + verb + -ing",
+    "translation": "adorer + verbe en -ing",
+    "example": "She loves reading.",
+    "variant": null,
+    "trap": null,
+    "explain": "Use -ing after \"love\" to talk about activities you enjoy."
+  },
+  {
+    "type": "grammar",
+    "word": "hate + verb + -ing",
+    "translation": "détester + verbe en -ing",
+    "example": "He hates cleaning his apartment.",
+    "variant": null,
+    "trap": null,
+    "explain": "Use -ing after \"hate\" to describe disliked activities."
+  },
+  {
+    "type": "grammar",
+    "word": "don't like + verb + -ing",
+    "translation": "ne pas aimer + verbe en -ing",
+    "example": "I don't like waking up early.",
+    "variant": "doesn't like + verb + -ing",
+    "trap": "Ne pas oublier le \"-s\" à \"doesn't\" avec he/she/it.",
+    "explain": "Use \"don't\" or \"doesn't\" + base verb, then -ing form."
+  },
+  {
+    "type": "vocabulary",
+    "word": "delicious",
+    "translation": "délicieux",
+    "example": "This dish is delicious.",
+    "variant": null,
+    "trap": null,
+    "explain": "Used to describe food that tastes very good."
+  },
+  {
+    "type": "vocabulary",
+    "word": "awful",
+    "translation": "horrible",
+    "example": "This soup is awful.",
+    "variant": "terrible",
+    "trap": null,
+    "explain": "Strong negative adjective for very bad experiences."
+  },
+  {
+    "type": "vocabulary",
+    "word": "tough",
+    "translation": "dur (viande)",
+    "example": "The beef is too tough.",
+    "variant": null,
+    "trap": null,
+    "explain": "Used to describe meat that is difficult to chew."
+  },
+  {
+    "type": "grammar",
+    "word": "dislike",
+    "translation": "ne pas aimer",
+    "example": "She dislikes garlic.",
+    "variant": "doesn't like",
+    "trap": "Avec he/she/it → dislikes.",
+    "explain": "\"Dislike\" is stronger than \"don't like\" and takes -s in third person."
+  },
+  {
+    "type": "vocabulary",
+    "word": "weird",
+    "translation": "bizarre",
+    "example": "The dish tastes weird.",
+    "variant": null,
+    "trap": null,
+    "explain": "Describes something strange or unusual."
+  },
+  {
+    "type": "grammar",
+    "word": "go + -ing",
+    "translation": "aller + activité",
+    "example": "I go swimming every day.",
+    "variant": "go running, go cycling",
+    "trap": "Ne pas dire \"go to swim\".",
+    "explain": "Use \"go\" + activity in -ing for many sports."
+  },
+  {
+    "type": "grammar",
+    "word": "play + sport",
+    "translation": "jouer à + sport",
+    "example": "She plays tennis on weekends.",
+    "variant": "play football, play golf",
+    "trap": "Ne pas dire \"play to tennis\".",
+    "explain": "Use \"play\" with ball sports and games."
+  },
+  {
+    "type": "grammar",
+    "word": "do + activity",
+    "translation": "faire + activité",
+    "example": "He does homework in the evening.",
+    "variant": "do exercise",
+    "trap": null,
+    "explain": "Use \"do\" for homework, exercise, and non-team activities."
+  },
+  {
+    "type": "grammar",
+    "word": "but",
+    "translation": "mais",
+    "example": "I like coffee, but I don't like tea.",
+    "variant": null,
+    "trap": "Ne pas faire deux phrases séparées sans liaison.",
+    "explain": "Use \"but\" to contrast two ideas in one sentence."
+  },
+  {
+    "type": "vocabulary",
+    "word": "spicy",
+    "translation": "épicé",
+    "example": "This sauce is very spicy.",
+    "variant": null,
+    "trap": null,
+    "explain": "Used to describe food with strong spices."
+  },
+  {
+    "type": "vocabulary",
+    "word": "mean",
+    "translation": "méchant",
+    "example": "They think she is mean.",
+    "variant": null,
+    "trap": null,
+    "explain": "Describes someone unkind."
+  },
+  {
+    "type": "vocabulary",
+    "word": "perfect",
+    "translation": "parfait",
+    "example": "This sofa is perfect for my apartment.",
+    "variant": null,
+    "trap": null,
+    "explain": "Used to describe something without faults."
+  },
+  {
+    "type": "vocabulary",
+    "word": "scared",
+    "translation": "effrayé",
+    "example": "I'm scared of the dark.",
+    "variant": "afraid",
+    "trap": "Ne pas dire \"I am scary\".",
+    "explain": "\"Scared\" describes a feeling, not something that causes fear."
+  },
+  {
+    "type": "expression",
+    "word": "What do you like to do in your free time?",
+    "translation": "Qu’aimes-tu faire pendant ton temps libre ?",
+    "example": "What do you like to do in your free time?",
+    "variant": null,
+    "trap": null,
+    "explain": "Common conversation starter about hobbies."
+  }
+]
